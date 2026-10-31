@@ -1,0 +1,52 @@
+{
+  "name": "mallorn-theme",
+  "displayName": "Mallorn",
+  "description": "Cream text on deep teal-green, with a matching light variant. Built from an OKLCH palette.",
+  "version": "0.2.0",
+  "publisher": "volfied",
+  "author": {
+    "name": "Andrew Howard"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color theme",
+    "dark",
+    "light",
+    "green",
+    "teal",
+    "oklch"
+  ],
+  "galleryBanner": {
+    "color": "#061718",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mallorn Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mallorn-dark-color-theme.json"
+      },
+      {
+        "label": "Mallorn Light",
+        "uiTheme": "vs",
+        "path": "./themes/mallorn-light-color-theme.json"
+      }
+    ]
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yorkshirelandscape/mallorn-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yorkshirelandscape/mallorn-theme/issues"
+  },
+  "icon": "icon.png"
+}
