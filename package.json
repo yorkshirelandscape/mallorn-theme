@@ -2,7 +2,7 @@
   "name": "mallorn-theme",
   "displayName": "Mallorn",
   "description": "Cream text on deep teal-green, with a matching light variant. Built from an OKLCH palette.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "publisher": "volfied",
   "author": {
     "name": "Andrew Howard"

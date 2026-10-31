@@ -2,9 +2,9 @@
 
 Cream text on deep teal-green, with a matching light variant.
 
-![Mallorn Dark](images/dark.png)
+![Mallorn Dark](https://raw.githubusercontent.com/yorkshirelandscape/mallorn-theme/main/images/dark.png)
 
-![Mallorn Light](images/light.png)
+![Mallorn Light](https://raw.githubusercontent.com/yorkshirelandscape/mallorn-theme/main/images/light.png)
 
 ## Install
 
